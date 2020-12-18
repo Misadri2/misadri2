@@ -1,5 +1,5 @@
 ### Hello New Friends 👋
-## I’m currently improving HTML and CSS and learning Javascript.
+### I’m currently improving HTML and CSS and learning Javascript.
 
 <!--
 **Misadri2/misadri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
