@@ -1,7 +1,7 @@
 ### Hello New Friends 👋
 ####  💻 I’m currently learning HTML5, CSS3, Bootstrap, JavaScript, PHP 7, MySQL, and also I like to practice em C#.
 ####  👩 About me : I am a person who learns quite easily, passionate about technology, and very focused on results.
-####  📫 How to reach me: https://www.linkedin.com/in/mislaine-adriana-m-94a5191b9/
+####  📫 How to reach me: https://www.linkedin.com/in/mislaine-adriana-monteiro/
 
 <!--
 **Misadri2/misadri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
