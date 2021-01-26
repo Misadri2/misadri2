@@ -1,5 +1,5 @@
 ### Hello New Friends 👋
-####  💻 I’m currently learning HTML5, CSS3, JavaScript, Bootstrap, PHP 7, MySQL, and also I like to practice C#.
+####  💻 I’m currently learning HTML5, CSS3, JavaScript, Bootstrap, React, and also I like to practice C#.
 ####  👩 About me : I am a person who learns quite easily, passionate about technology, and very focused on results.
 ####  📫 How to reach me: https://www.linkedin.com/in/mislaine-adriana-monteiro/
 
