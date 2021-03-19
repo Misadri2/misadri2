@@ -1,7 +1,7 @@
 ### Hello New Friends 👋
 ####  💻 Tech: HTML5, CSS3, JavaScript, C#, .NET, SQL Server.
-###   🔨 Tools : Visual Studio Code, GitHub, Git.
-###   📖 Education : Degree in Business Administration / Studying Analysis and Systems Development at University Anhembi Morumbi.
+####   🔨 Tools : Visual Studio Code, GitHub, Git.
+####   📖 Education : Degree in Business Administration / Studying Analysis and Systems Development at University Anhembi Morumbi.
 ####  👩 About me : I am a person who learns quite easily, passionate about technology, and very focused on results.
 ####  📫 How to reach me: https://www.linkedin.com/in/mislaine-adriana-monteiro/
 
