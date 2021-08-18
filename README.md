@@ -1,6 +1,6 @@
 ### Hello New Friends 👋
 ####  👩 About me : I am a person who learns quite easily, passionate about technology, and very focused on results.
-####  💻 Tech: HTML5, CSS3, JavaScript, C#, .NET, MySQL.
+####  💻 Tech: C#, .NET, MySQL, HTML5, CSS3, JavaScript, Angular.
 ####  🔨 Tools : Visual Studio Code, GitHub, Git.
 ####  📖 Education : Degree in Business Administration / Studying Analysis and Systems Development at University Anhembi Morumbi.
 ####  📫 How to reach me: https://www.linkedin.com/in/mislaine-adriana-monteiro/
