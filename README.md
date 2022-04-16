@@ -1,7 +1,7 @@
 ### Hello New Friends 👋
 ####  👩 About me : I am a person who learns quite easily, passionate about technology, and very focused on results.
-####  💻 Tech: C#, .NET, MySQL, HTML5, CSS3, JavaScript, Angular.
-####  🔨 Tools : Visual Studio, Visual Code, GitHub, Gitlab, Git.
+####  💻 Tech: C#, .NET Core, MySQL, Angular.
+####  🔨 Tools : Visual Studio, Visual Code, GitHub, Gitlab, Git, Postaman, Sonar.
 ####  📖 Education : Degree in Business Administration / Studying Computer Science at University Anhembi Morumbi.
 ####  📫 How to reach me: https://www.linkedin.com/in/mislaine-adriana-monteiro/
 ##
